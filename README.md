@@ -13,3 +13,4 @@ express
 mysql2
 dotenv
 bcrypt - password hashing
+express handlebars
