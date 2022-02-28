@@ -1,0 +1,16 @@
+POST into USERS
+
+{
+	"username": "lernantino",
+	"email": "lernantino@gmail.com",
+	"password": "123456"	
+}
+
+
+POST into POSTS
+
+{
+	"title": "Taskmaster",
+	"post_url": "www.taskmaster.com",
+	"user_id": 1	
+}
